@@ -1,6 +1,7 @@
 # Project: Game Lab 6
 
-https://techineethamoontree.github.io/-gamelab6/lab6.html
+## 🎮 ลิงก์ทดลองเล่นเกม (Play Game)
+
 👉 [คลิกที่นี่เพื่อเล่นเกม](https://techineethamoontree.github.io/-gamelab6/lab6.html)
 
 ## 👤 ผู้จัดทำ
